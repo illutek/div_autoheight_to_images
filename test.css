@@ -1,0 +1,13 @@
+/**
+ * Created by Stefan on 30/11/2014.
+ * illutek
+ */
+
+
+.classics {
+    border: solid 1px #000;
+    width: 600px;
+    float: left;
+    padding: 50px;
+}
+.foto img { float: left; }
